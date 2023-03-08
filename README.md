@@ -1,4 +1,4 @@
-# Movie Browser Applicatio
+# Movie Browser Application
 This application is developed using React. This application lets user search movies by movie name and displays movies with the matching name. The application uses OMDB API to fetch the movie data.
 
 
