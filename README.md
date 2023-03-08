@@ -1,3 +1,7 @@
+# Movie Browser Applicatio
+This application is developed using React. This application lets user search movies by movie name and displays movies with the matching name. The application uses OMDB API to fetch the movie data.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
